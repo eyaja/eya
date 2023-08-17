@@ -1,0 +1,133 @@
+.navbar{ display: inline;position: sticky;top: 0px; ; overflow: auto;background-color: rgb(255, 255, 255);padding-top: 40px;}
+
+
+.first{
+     display: inline;
+}
+nav h1{
+    font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif;
+}
+nav img{
+    margin-left: 100px;
+}
+nav h1 b{
+    color: rgb(17, 189, 174); font-size: larger;
+}
+nav h1 i{
+    color: rgb(154, 148, 148); font-size:larger ;
+}
+nav div {
+     margin-left: 400px;
+}
+a{
+    margin-left: 30px;
+     text-decoration: none;
+      color: rgb(154, 148, 148);
+       font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif ;
+}
+a:hover{
+    color: rgb(17, 189, 174);
+}
+figure{
+    margin-left: 600px;
+}
+#title{
+    color: rgb(17, 189, 174); 
+    font-size:xx-large;
+    font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+article{
+    margin-top: 70px;
+}
+p {
+    display: inline;
+    display: flex; 
+    justify-content: space-between;
+    align-content: center;
+     height: 200px;
+     width: 400px;
+     color: rgb(154, 148, 148) ;
+     font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif;
+     }
+#second{
+    margin-top: -235px;
+     margin-left: 700px;
+    }
+#third{
+    margin-left: 200px
+}
+.fourth{
+   margin-left: 130px;
+    display: grid;
+    grid-template-columns: 320px 320px 320px;
+    grid-template-rows:400px;
+    gap: 20px; 
+}
+#five{
+     background-color:rgb(17, 189, 174) ;border-radius: 10px;
+    }
+
+#eight{
+    margin-left: 40px; margin-top: 30px;
+}
+#five h1{
+    color: rgb(255, 255, 255); font-size:xx-large;font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif ; text-align: center;
+}
+#five p{
+    color: rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif ;
+     margin-left: 10px; 
+     width: 320px;
+     font-size: larger;
+}
+#six{background-color: dodgerblue;border-radius: 10px;
+}
+
+#nine{margin-left: 40px; margin-top: 30px;
+}
+
+#six h1{
+    color: rgb(255, 255, 255); font-size:xx-large;font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif ; text-align: center;
+}
+#six p{
+    color: rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif ; 
+    margin-left: 10px;
+     width: 320px;
+     font-size: larger;
+}
+#seven{
+    background-color:rgb(16, 46, 59);border-radius: 10px;
+}
+
+#ten{
+    margin-left: 40px; margin-top: 30px;
+}
+#seven h1 {
+    color: rgb(255, 255, 255); font-size:xx-large;font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif ; text-align: center;
+}
+#seven p{
+    color: rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif ; 
+    margin-left: 10px;
+     width: 320px;
+     font-size: larger;
+}
+#eleven{color: rgb(17, 189, 174); 
+    font-size: xx-large;font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif; 
+    margin-left: 250px; margin-top:  20px; 
+}
+.select{font-size: medium;
+    background-color:transparent;color: rgb(252, 252, 252);
+    
+}
+footer p{font-family:Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif;
+    color: rgb(17, 189, 174);
+    text-align: center;
+     margin-left: 360px ;
+     margin-top: 100px;
+}
+
+
+
